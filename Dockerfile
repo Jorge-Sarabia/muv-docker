@@ -1,4 +1,3 @@
-
 FROM prestashop/prestashop:1.7
 
 RUN apt-get update && \
